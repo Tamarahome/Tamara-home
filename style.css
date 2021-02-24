@@ -35,7 +35,7 @@ main {
   animation-delay: 2s;
 }
 .logo-container img {
-  width: 100%;
+  width: 90%;
 }
 @keyframes show {
   to {
